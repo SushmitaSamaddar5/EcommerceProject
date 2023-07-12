@@ -1,0 +1,432 @@
+2023-01-15 02:32:50 INFO  Logging:26 - Chrome driver is created
+2023-01-15 02:32:50 INFO  Logging:26 - waiting for page to load completely
+2023-01-15 02:32:50 INFO  Logging:26 - Page is loaded
+2023-01-15 02:32:50 INFO  Logging:26 - Browser window is maximised
+2023-01-15 02:32:55 INFO  Logging:26 - Stating the test case execution
+2023-01-15 02:32:55 INFO  Logging:14 - ########################################################################################
+2023-01-15 02:32:55 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC01-verify the login flow with blank username and password$$$$$$$$$$$$$
+2023-01-15 02:32:55 INFO  Logging:16 - ########################################################################################
+2023-01-15 02:32:55 INFO  Logging:26 - User clicked on the login link
+2023-01-15 02:32:55 INFO  Logging:26 - Clicked on login button present in login page
+2023-01-15 02:32:55 INFO  Logging:26 - Error message : Username and Password are required !! is displayed
+2023-01-15 02:32:55 INFO  Logging:26 - Error message should be displayed when user login without username and password
+2023-01-15 02:32:55 INFO  Logging:26 - Ending the test case execution
+2023-01-15 02:33:15 INFO  Logging:26 - Logout Button is not displayed
+2023-01-15 02:52:11 INFO  Logging:26 - Chrome driver is created
+2023-01-15 02:52:11 INFO  Logging:26 - waiting for page to load completely
+2023-01-15 02:52:11 INFO  Logging:26 - Page is loaded
+2023-01-15 02:52:11 INFO  Logging:26 - Browser window is maximised
+2023-01-15 02:52:15 INFO  Logging:26 - Stating the test case execution
+2023-01-15 02:52:15 INFO  Logging:14 - ########################################################################################
+2023-01-15 02:52:15 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC01-verify the login flow with blank username and password$$$$$$$$$$$$$
+2023-01-15 02:52:15 INFO  Logging:16 - ########################################################################################
+2023-01-15 02:52:15 INFO  Logging:26 - User clicked on the login link
+2023-01-15 02:52:16 INFO  Logging:26 - Clicked on login button present in login page
+2023-01-15 02:52:16 INFO  Logging:26 - Error message : Username and Password are required !! is displayed
+2023-01-15 02:52:16 INFO  Logging:26 - Error message should be displayed when user login without username and password
+2023-01-15 02:52:16 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-15 02:52:16 INFO  Logging:26 - Ending the test case execution
+2023-01-15 02:52:36 INFO  Logging:26 - Logout Button is not displayed
+2023-01-16 01:43:23 INFO  Logging:26 - Chrome driver is created
+2023-01-16 01:43:23 INFO  Logging:26 - waiting for page to load completely
+2023-01-16 01:43:23 INFO  Logging:26 - Page is loaded
+2023-01-16 01:43:23 INFO  Logging:26 - Browser window is maximised
+2023-01-16 01:43:28 INFO  Logging:26 - Stating the test case execution
+2023-01-16 01:43:28 INFO  Logging:14 - ########################################################################################
+2023-01-16 01:43:28 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC03-validate the login functionality with valid data that is taken from excel sheet$$$$$$$$$$$$$
+2023-01-16 01:43:28 INFO  Logging:16 - ########################################################################################
+2023-01-16 01:43:28 INFO  Logging:26 - clicked on login link
+2023-01-16 01:43:28 INFO  Logging:26 - user entered the username
+2023-01-16 01:43:28 INFO  Logging:26 - user entered the password
+2023-01-16 01:43:28 INFO  Logging:26 - user clicked on login button
+2023-01-16 01:43:36 INFO  Logging:26 - Ending the test case execution
+2023-01-16 01:45:51 INFO  Logging:26 - Chrome driver is created
+2023-01-16 01:45:51 INFO  Logging:26 - waiting for page to load completely
+2023-01-16 01:45:51 INFO  Logging:26 - Page is loaded
+2023-01-16 01:45:51 INFO  Logging:26 - Browser window is maximised
+2023-01-16 01:45:56 INFO  Logging:26 - Stating the test case execution
+2023-01-16 01:45:56 INFO  Logging:14 - ########################################################################################
+2023-01-16 01:45:56 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC03-validate the login functionality with valid data that is taken from excel sheet$$$$$$$$$$$$$
+2023-01-16 01:45:56 INFO  Logging:16 - ########################################################################################
+2023-01-16 01:45:56 INFO  Logging:26 - clicked on login link
+2023-01-16 01:45:56 INFO  Logging:26 - user entered the username
+2023-01-16 01:45:56 INFO  Logging:26 - user entered the password
+2023-01-16 01:45:56 INFO  Logging:26 - user clicked on login button
+2023-01-16 01:45:58 INFO  Logging:26 - user logged in successfully
+2023-01-16 01:45:58 INFO  Logging:26 - Ending the test case execution
+2023-01-16 01:45:58 INFO  Logging:26 - Clicked on Logout Button
+2023-01-16 03:56:50 INFO  Logging:26 - Chrome driver is created
+2023-01-16 03:56:50 INFO  Logging:26 - waiting for page to load completely
+2023-01-16 03:56:50 INFO  Logging:26 - Page is loaded
+2023-01-16 03:56:50 INFO  Logging:26 - Browser window is maximised
+2023-01-16 03:56:55 INFO  Logging:26 - Stating the test case execution
+2023-01-16 03:56:55 INFO  Logging:14 - ########################################################################################
+2023-01-16 03:56:55 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-16 03:56:55 INFO  Logging:16 - ########################################################################################
+2023-01-16 03:56:55 INFO  Logging:26 - Clicked on electronics category
+2023-01-16 03:56:55 INFO  Logging:26 - searched the electronic product
+2023-01-16 03:56:55 INFO  Logging:26 - compared the prices , it is not equal
+2023-01-16 03:56:55 INFO  Logging:26 - not able to search electronics product
+2023-01-16 03:56:56 INFO  Logging:26 - Clicked on kitchen items link
+2023-01-16 03:56:57 INFO  Logging:26 - searched the required product
+2023-01-16 03:56:57 INFO  Logging:26 - compared the prices , that is not equal
+2023-01-16 03:56:57 ERROR Logging:46 - unable to search kitchen items
+2023-01-16 03:56:58 INFO  Logging:26 - clicked on sports link
+2023-01-16 03:56:58 INFO  Logging:26 - searched the sports product
+2023-01-16 03:56:58 INFO  Logging:26 - compared the prices , it is  not equal
+2023-01-16 03:56:59 INFO  Logging:26 - not able to search the sports product
+2023-01-16 03:56:59 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-16 03:56:59 INFO  Logging:26 - Ending the test case execution
+2023-01-16 03:57:09 INFO  Logging:26 - Logout Button is not displayed
+2023-01-16 04:09:58 INFO  Logging:26 - Chrome driver is created
+2023-01-16 04:09:58 INFO  Logging:26 - waiting for page to load completely
+2023-01-16 04:09:58 INFO  Logging:26 - Page is loaded
+2023-01-16 04:09:58 INFO  Logging:26 - Browser window is maximised
+2023-01-16 04:10:03 INFO  Logging:26 - Stating the test case execution
+2023-01-16 04:10:03 INFO  Logging:14 - ########################################################################################
+2023-01-16 04:10:03 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-16 04:10:03 INFO  Logging:16 - ########################################################################################
+2023-01-16 04:10:03 INFO  Logging:26 - Clicked on electronics category
+2023-01-16 04:10:04 INFO  Logging:26 - searched the electronic product
+2023-01-16 04:10:04 INFO  Logging:26 - compared the prices , it is not equal
+2023-01-16 04:10:04 INFO  Logging:26 - not able to search electronics product
+2023-01-16 04:10:05 INFO  Logging:26 - Clicked on kitchen items link
+2023-01-16 04:10:05 INFO  Logging:26 - searched the required product
+2023-01-16 04:10:05 INFO  Logging:26 - compared the prices , that is not equal
+2023-01-16 04:10:05 ERROR Logging:46 - unable to search kitchen items
+2023-01-16 04:10:07 INFO  Logging:26 - clicked on sports link
+2023-01-16 04:10:07 INFO  Logging:26 - searched the sports product
+2023-01-16 04:10:07 INFO  Logging:26 - compared the prices , it is  not equal
+2023-01-16 04:10:07 INFO  Logging:26 - not able to search the sports product
+2023-01-16 04:10:08 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-16 04:10:08 INFO  Logging:26 - Ending the test case execution
+2023-01-16 04:10:28 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 17:10:58 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:10:58 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:10:58 INFO  Logging:26 - Page is loaded
+2023-01-18 17:10:58 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:11:03 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:11:03 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:11:03 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC02-validate the login functionality with valid user name and password$$$$$$$$$$$$$
+2023-01-18 17:11:03 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:11:03 INFO  Logging:26 - user clicked on login link
+2023-01-18 17:11:04 INFO  Logging:26 - user entered the user name
+2023-01-18 17:11:04 INFO  Logging:26 - user entered the password
+2023-01-18 17:11:04 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:11:04 INFO  Logging:26 - user clicked on login button
+2023-01-18 17:11:05 INFO  Logging:26 - logout button is displayed
+2023-01-18 17:11:05 INFO  Logging:26 - user logged in successfully
+2023-01-18 17:11:05 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-18 17:11:05 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:11:05 INFO  Logging:26 - Clicked on Logout Button
+2023-01-18 17:47:19 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:47:19 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:47:19 INFO  Logging:26 - Page is loaded
+2023-01-18 17:47:20 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:47:24 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:47:24 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:47:24 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:47:24 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:47:24 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:47:24 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:47:25 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:47:45 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 17:50:05 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:50:05 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:50:05 INFO  Logging:26 - Page is loaded
+2023-01-18 17:50:05 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:50:09 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:50:09 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:50:09 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:50:09 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:50:09 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:50:10 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:50:10 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:50:30 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 17:51:28 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:51:28 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:51:28 INFO  Logging:26 - Page is loaded
+2023-01-18 17:51:29 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:51:37 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:51:37 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:51:37 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:51:37 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:51:37 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:51:37 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:51:38 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:51:58 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 17:53:54 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:53:54 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:53:54 INFO  Logging:26 - Page is loaded
+2023-01-18 17:53:54 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:54:00 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:54:00 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:54:00 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:54:00 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:54:00 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:54:00 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:54:00 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:54:20 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 17:55:22 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:55:22 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:55:22 INFO  Logging:26 - Page is loaded
+2023-01-18 17:55:22 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:55:28 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:55:28 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:55:28 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:55:28 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:55:28 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:55:28 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:56:10 INFO  Logging:26 - product name is similar
+2023-01-18 17:57:33 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:57:33 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:57:33 INFO  Logging:26 - Page is loaded
+2023-01-18 17:57:33 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:57:38 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:57:38 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:57:38 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:57:38 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:57:38 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:57:38 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:57:39 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:57:59 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 17:58:21 INFO  Logging:26 - Chrome driver is created
+2023-01-18 17:58:21 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 17:58:21 INFO  Logging:26 - Page is loaded
+2023-01-18 17:58:21 INFO  Logging:26 - Browser window is maximised
+2023-01-18 17:58:25 INFO  Logging:26 - Stating the test case execution
+2023-01-18 17:58:25 INFO  Logging:14 - ########################################################################################
+2023-01-18 17:58:25 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 17:58:25 INFO  Logging:16 - ########################################################################################
+2023-01-18 17:58:26 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 17:58:26 INFO  Logging:26 - searched the electronic product
+2023-01-18 17:58:26 INFO  Logging:26 - Ending the test case execution
+2023-01-18 17:58:46 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:06:47 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:06:47 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:06:47 INFO  Logging:26 - Page is loaded
+2023-01-18 18:06:47 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:06:52 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:06:52 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:06:52 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case Tc-04 :search the product category wise and compare the prices$$$$$$$$$$$$$
+2023-01-18 18:06:52 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:06:52 INFO  Logging:26 - clicked on Electronics category
+2023-01-18 18:06:52 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:06:52 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:07:12 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:32:02 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:32:02 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:32:02 INFO  Logging:26 - Page is loaded
+2023-01-18 18:32:02 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:32:07 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:32:07 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:32:07 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 18:32:07 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:32:07 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 18:32:07 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:32:07 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:32:27 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:43:07 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:43:07 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:43:07 INFO  Logging:26 - Page is loaded
+2023-01-18 18:43:07 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:43:12 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:43:12 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:43:12 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 18:43:12 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:43:12 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 18:43:12 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:43:12 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:43:32 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:46:24 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:46:24 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:46:24 INFO  Logging:26 - Page is loaded
+2023-01-18 18:46:24 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:46:29 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:46:29 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:46:29 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 18:46:29 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:46:29 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 18:46:29 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:46:30 INFO  Logging:26 - product name is similar
+2023-01-18 18:46:30 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-18 18:46:30 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:46:50 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:49:02 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:49:03 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:49:03 INFO  Logging:26 - Page is loaded
+2023-01-18 18:49:03 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:49:07 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:49:08 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:49:08 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 18:49:08 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:49:08 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 18:49:08 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:49:08 INFO  Logging:26 - product name is similar
+2023-01-18 18:49:08 INFO  Logging:26 - compared the prices , it is equal
+2023-01-18 18:49:08 INFO  Logging:26 - able to search electronics product
+2023-01-18 18:49:09 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-18 18:49:09 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:49:29 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:50:19 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:50:19 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:50:19 INFO  Logging:26 - Page is loaded
+2023-01-18 18:50:20 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:50:24 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:50:24 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:50:24 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 18:50:24 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:50:25 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 18:50:25 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:50:25 INFO  Logging:26 - product name is similar
+2023-01-18 18:50:25 INFO  Logging:26 - compared the prices , it is equal
+2023-01-18 18:50:25 INFO  Logging:26 - able to search electronics product
+2023-01-18 18:50:26 INFO  Logging:26 - Clicked on kitchen items link
+2023-01-18 18:50:26 INFO  Logging:26 - searched the required product
+2023-01-18 18:50:26 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:50:46 INFO  Logging:26 - Logout Button is not displayed
+2023-01-18 18:51:53 INFO  Logging:26 - Chrome driver is created
+2023-01-18 18:51:53 INFO  Logging:26 - waiting for page to load completely
+2023-01-18 18:51:53 INFO  Logging:26 - Page is loaded
+2023-01-18 18:51:53 INFO  Logging:26 - Browser window is maximised
+2023-01-18 18:51:58 INFO  Logging:26 - Stating the test case execution
+2023-01-18 18:51:58 INFO  Logging:14 - ########################################################################################
+2023-01-18 18:51:58 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-18 18:51:58 INFO  Logging:16 - ########################################################################################
+2023-01-18 18:51:58 INFO  Logging:26 - Clicked on electronics category
+2023-01-18 18:51:58 INFO  Logging:26 - searched the electronic product
+2023-01-18 18:51:58 INFO  Logging:26 - product name is similar
+2023-01-18 18:51:58 INFO  Logging:26 - compared the prices , it is equal
+2023-01-18 18:51:58 INFO  Logging:26 - able to search electronics product
+2023-01-18 18:52:00 INFO  Logging:26 - Clicked on kitchen items link
+2023-01-18 18:52:00 INFO  Logging:26 - searched the required product
+2023-01-18 18:52:00 INFO  Logging:26 - product name is similar
+2023-01-18 18:52:00 INFO  Logging:26 - actual price and expected price are same
+2023-01-18 18:52:00 INFO  Logging:26 - able to search kitchen items
+2023-01-18 18:52:01 INFO  Logging:26 - clicked on sports link
+2023-01-18 18:52:01 INFO  Logging:26 - searched the sports product
+2023-01-18 18:52:01 INFO  Logging:26 - actual and expected product name are same
+2023-01-18 18:52:01 INFO  Logging:26 - compared the prices , it is equal
+2023-01-18 18:52:02 INFO  Logging:26 - able to search the sports product
+2023-01-18 18:52:02 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-18 18:52:02 INFO  Logging:26 - Ending the test case execution
+2023-01-18 18:52:22 INFO  Logging:26 - Logout Button is not displayed
+2023-01-19 00:04:57 INFO  Logging:26 - Chrome driver is created
+2023-01-19 00:04:57 INFO  Logging:26 - waiting for page to load completely
+2023-01-19 00:04:57 INFO  Logging:26 - Page is loaded
+2023-01-19 00:04:58 INFO  Logging:26 - Browser window is maximised
+2023-01-19 00:05:02 INFO  Logging:26 - Stating the test case execution
+2023-01-19 00:05:02 INFO  Logging:14 - ########################################################################################
+2023-01-19 00:05:02 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-19 00:05:02 INFO  Logging:16 - ########################################################################################
+2023-01-19 00:05:22 INFO  Logging:26 - Ending the test case execution
+2023-01-19 00:05:42 INFO  Logging:26 - Logout Button is not displayed
+2023-01-19 01:16:21 INFO  Logging:26 - Chrome driver is created
+2023-01-19 01:16:21 INFO  Logging:26 - waiting for page to load completely
+2023-01-19 01:16:21 INFO  Logging:26 - Page is loaded
+2023-01-19 01:16:21 INFO  Logging:26 - Browser window is maximised
+2023-01-19 01:16:26 INFO  Logging:26 - Stating the test case execution
+2023-01-19 01:16:26 INFO  Logging:14 - ########################################################################################
+2023-01-19 01:16:26 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC05-add item into cart and verify the details$$$$$$$$$$$$$
+2023-01-19 01:16:26 INFO  Logging:16 - ########################################################################################
+2023-01-19 01:16:26 INFO  Logging:26 - user is giving details to login into site
+2023-01-19 01:16:26 INFO  Logging:26 - user is logged in
+2023-01-19 01:16:26 INFO  Logging:26 - clicking on kitchen category
+2023-01-19 01:16:28 INFO  Logging:26 - clicked on prestige stove
+2023-01-19 01:16:28 INFO  Logging:26 - clicked on add to cart button
+2023-01-19 01:16:29 INFO  Logging:26 - clicked on go to cart button
+2023-01-19 01:16:30 INFO  Logging:26 - product name are same on cart page and product details page
+2023-01-19 01:16:30 INFO  Logging:26 - product prices are not same on product details page and cart page
+2023-01-19 01:16:30 INFO  Logging:26 - product details are not similar on product details page and cart page
+2023-01-19 01:16:31 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-19 01:16:31 INFO  Logging:26 - Ending the test case execution
+2023-01-19 01:16:32 INFO  Logging:26 - Clicked on Logout Button
+2023-01-19 01:21:46 INFO  Logging:26 - Chrome driver is created
+2023-01-19 01:21:47 INFO  Logging:26 - waiting for page to load completely
+2023-01-19 01:21:47 INFO  Logging:26 - Page is loaded
+2023-01-19 01:21:47 INFO  Logging:26 - Browser window is maximised
+2023-01-19 01:21:52 INFO  Logging:26 - Stating the test case execution
+2023-01-19 01:21:52 INFO  Logging:14 - ########################################################################################
+2023-01-19 01:21:52 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC05-add item into cart and verify the details$$$$$$$$$$$$$
+2023-01-19 01:21:52 INFO  Logging:16 - ########################################################################################
+2023-01-19 01:21:52 INFO  Logging:26 - user is giving details to login into site
+2023-01-19 01:21:52 INFO  Logging:26 - user is logged in
+2023-01-19 01:21:52 INFO  Logging:26 - clicking on kitchen category
+2023-01-19 01:21:54 INFO  Logging:26 - clicked on prestige stove
+2023-01-19 01:21:54 INFO  Logging:26 - clicked on add to cart button
+2023-01-19 01:21:56 INFO  Logging:26 - clicked on go to cart button
+2023-01-19 01:21:56 INFO  Logging:26 - product name are same on cart page and product details page
+2023-01-19 01:21:56 INFO  Logging:26 - product prices are same on product details page and cart page
+2023-01-19 01:21:56 INFO  Logging:26 - product details are similar on product details page and cart page
+2023-01-19 01:21:56 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-19 01:21:56 INFO  Logging:26 - Ending the test case execution
+2023-01-19 01:21:56 INFO  Logging:26 - Clicked on Logout Button
+2023-01-19 01:23:53 INFO  Logging:26 - Chrome driver is created
+2023-01-19 01:23:53 INFO  Logging:26 - waiting for page to load completely
+2023-01-19 01:23:53 INFO  Logging:26 - Page is loaded
+2023-01-19 01:23:53 INFO  Logging:26 - Browser window is maximised
+2023-01-19 01:23:58 INFO  Logging:26 - Stating the test case execution
+2023-01-19 01:23:58 INFO  Logging:14 - ########################################################################################
+2023-01-19 01:23:58 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC04-search the product category wise and compare the price$$$$$$$$$$$$$
+2023-01-19 01:23:58 INFO  Logging:16 - ########################################################################################
+2023-01-19 01:23:58 INFO  Logging:26 - Clicked on electronics category
+2023-01-19 01:23:58 INFO  Logging:26 - searched the electronic product
+2023-01-19 01:23:58 INFO  Logging:26 - product name is similar
+2023-01-19 01:23:58 INFO  Logging:26 - compared the prices , it is equal
+2023-01-19 01:23:58 INFO  Logging:26 - able to search electronics product
+2023-01-19 01:23:59 INFO  Logging:26 - Clicked on kitchen items link
+2023-01-19 01:23:59 INFO  Logging:26 - searched the required product
+2023-01-19 01:24:00 INFO  Logging:26 - product name is similar
+2023-01-19 01:24:00 INFO  Logging:26 - actual price and expected price are same
+2023-01-19 01:24:00 INFO  Logging:26 - able to search kitchen items
+2023-01-19 01:24:01 INFO  Logging:26 - clicked on sports link
+2023-01-19 01:24:01 INFO  Logging:26 - searched the sports product
+2023-01-19 01:24:01 INFO  Logging:26 - actual and expected product name are same
+2023-01-19 01:24:01 INFO  Logging:26 - compared the prices , it is equal
+2023-01-19 01:24:01 INFO  Logging:26 - able to search the sports product
+2023-01-19 01:24:02 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-19 01:24:02 INFO  Logging:26 - Ending the test case execution
+2023-01-19 01:24:22 INFO  Logging:26 - Logout Button is not displayed
+2023-01-23 02:07:45 INFO  Logging:26 - Chrome driver is created
+2023-01-23 02:07:45 INFO  Logging:26 - waiting for page to load completely
+2023-01-23 02:07:45 INFO  Logging:26 - Page is loaded
+2023-01-23 02:07:45 INFO  Logging:26 - Browser window is maximised
+2023-01-23 02:07:50 INFO  Logging:26 - Stating the test case execution
+2023-01-23 02:07:50 INFO  Logging:14 - ########################################################################################
+2023-01-23 02:07:50 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC06-remove item into cart and verify the cart$$$$$$$$$$$$$
+2023-01-23 02:07:50 INFO  Logging:16 - ########################################################################################
+2023-01-23 02:07:50 INFO  Logging:26 - user is entering user credentials on login page
+2023-01-23 02:07:50 INFO  Logging:26 - user is logged in
+2023-01-23 02:07:52 INFO  Logging:26 - user navigated to sports category
+2023-01-23 02:07:52 INFO  Logging:26 - user clicked on sports product
+2023-01-23 02:07:52 INFO  Logging:26 - user clicked on add to cart button
+2023-01-23 02:07:54 INFO  Logging:26 - user clicked on go to cart button
+2023-01-23 02:07:54 INFO  Logging:26 - product name are equal on product details page and product cart page
+2023-01-23 02:07:54 INFO  Logging:26 - product prices are not equal on product details page and product cart page
+2023-01-23 02:07:54 INFO  Logging:26 - clicked on remove button
+2023-01-23 02:07:55 INFO  Logging:26 - user is able to remove the item from cart
+2023-01-23 02:07:57 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-23 02:07:57 INFO  Logging:26 - Ending the test case execution
+2023-01-23 02:07:57 INFO  Logging:26 - Clicked on Logout Button
+2023-01-23 03:25:37 INFO  Logging:26 - Chrome driver is created
+2023-01-23 03:25:37 INFO  Logging:26 - waiting for page to load completely
+2023-01-23 03:25:37 INFO  Logging:26 - Page is loaded
+2023-01-23 03:25:37 INFO  Logging:26 - Browser window is maximised
+2023-01-23 03:25:42 INFO  Logging:26 - Stating the test case execution
+2023-01-23 03:25:42 INFO  Logging:14 - ########################################################################################
+2023-01-23 03:25:42 INFO  Logging:15 - $$$$$$$$$$$$$$$$ Starting the Test Case TC07-place order on electronic item$$$$$$$$$$$$$
+2023-01-23 03:25:42 INFO  Logging:16 - ########################################################################################
+2023-01-23 03:25:42 INFO  Logging:26 - user is entering his credentials to login into site
+2023-01-23 03:25:43 INFO  Logging:26 - user is logged in
+2023-01-23 03:25:45 INFO  Logging:26 - user clicked on electronics link
+2023-01-23 03:25:45 INFO  Logging:26 - user clicked on electronic product
+2023-01-23 03:25:46 INFO  Logging:26 - user added item into cart
+2023-01-23 03:25:47 INFO  Logging:26 - user clicked on go to cart button
+2023-01-23 03:25:47 INFO  Logging:26 - product name are similar on product detail page and product cart page
+2023-01-23 03:25:47 INFO  Logging:26 - product prices are same on product detail page and product cart page
+2023-01-23 03:25:47 INFO  Logging:26 - clicked on checkout button
+2023-01-23 03:25:48 INFO  Logging:26 - user clicked on confirm payment button
+2023-01-23 03:25:48 INFO  Logging:26 - order is confirmed
+2023-01-23 03:25:48 INFO  Logging:21 - ############################################ Test Case Ended ############################
+2023-01-23 03:25:48 INFO  Logging:26 - Ending the test case execution
+2023-01-23 03:25:49 INFO  Logging:26 - Clicked on Logout Button
